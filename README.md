@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- BLOG-POST-LIST:START -->
+- [Strategy Pattern with Javascript](https://dev.to/wecarrasco/strategy-pattern-with-javascript-dha)
+- [Adapter Pattern with JavaScript](https://dev.to/wecarrasco/adapter-pattern-with-javascript-4lgi)
+<!-- BLOG-POST-LIST:END -->
