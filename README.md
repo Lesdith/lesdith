@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-
-<!-- BLOG-POST-LIST:START -->
-- [Strategy Pattern with Javascript](https://dev.to/lesdith/strategy-pattern-with-javascript-dha)
-- [Adapter Pattern with JavaScript](https://dev.to/lesdith/adapter-pattern-with-javascript-4lgi)
-<!-- BLOG-POST-LIST:END -->
+  <a href="https://github.com/ktoxcon">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesdith&title_color=002573&text_color=002573" />
+  </a>
+  <a href="https://github.com/ktoxcon">
+    <img src="https://github-readme-stats.vercel.app/api?username=lesdith&title_color=002573&show_icons=true&3&icon_color=28057D" />
+  </a>
+  <hr>
+  
